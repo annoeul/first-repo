@@ -1,4 +1,4 @@
-# first-repo
+# firs-REPO
 
 This repo is to learn git.
 [See demo](https://www.google.com)
